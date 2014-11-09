@@ -1,0 +1,16 @@
+{
+  "name": "hapiify",
+  "version": "1.0.0",
+  "description": "Converts Hapi routes into Express compatible routes",
+  "main": "hapiify.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taunus/hapiify.git"
+  },
+  "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taunus/hapiify/issues"
+  },
+  "homepage": "https://github.com/taunus/hapiify"
+}
