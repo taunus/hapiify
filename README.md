@@ -2,7 +2,7 @@
 
 > Converts Hapi routes into Express compatible routes
 
-This is a transform for the Taunus command-line interface, compiling Hapi routes into [`routes`][1] compatible routes.
+This is a transform for the Taunus command-line interface, compiling Hapi routes into [`ruta3`][1] compatible routes.
 
 # Install
 
@@ -24,4 +24,4 @@ taunus -t hapiify
 
 MIT
 
-[1]: https://github.com/aaronblohowiak/routes.js
+[1]: https://github.com/bevacqua/ruta3
